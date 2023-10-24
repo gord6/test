@@ -1,4 +1,4 @@
-Anleitung 
+Anleitung zur Nutzung von Git(hub)
 
 1. Git installieren 
 
@@ -6,8 +6,6 @@ Anleitung
 	- lesen und eine Option auswählen
 	- ich würde jedem empfehlen git über das Terminal zu installieren
 	- Ohne Erfahrung: Immer die Recommendations auswählen. 
-
-
 
 2. Terminal öffnen 
 	- git version 
@@ -24,4 +22,15 @@ Anleitung
 	Beispiel: 
 	git config user.email "dominik.gorgosch@informatik.tu-chemnitz.de"
 	git config user.name "Dominik"
+
+4. Ausprobieren
+	git clone <url>
+	git add 
+	git commit -m "Message"  
+	git push
+	git pull
+	git merge
+	git branch
+	git checkout 
+ 
 
