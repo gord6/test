@@ -1,0 +1,27 @@
+Anleitung 
+
+1. Git installieren 
+
+	https://github.com/git-guides/install-git
+	- lesen und eine Option auswählen
+	- ich würde jedem empfehlen git über das Terminal zu installieren
+	- Ohne Erfahrung: Immer die Recommendations auswählen. 
+
+
+
+2. Terminal öffnen 
+	- git version 
+		- überprüfen, ob git installiert ist
+
+3. Nutzer-Mail und Namen eingeben 
+	git config --global user.email "you@example.com"
+	git config --global user.name "Your Name"
+
+	to set your account's default identity.
+	Omit --global to set the identity only in this repository.
+
+
+	Beispiel: 
+	git config user.email "dominik.gorgosch@informatik.tu-chemnitz.de"
+	git config user.name "Dominik"
+
