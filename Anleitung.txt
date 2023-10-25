@@ -33,4 +33,5 @@ Anleitung zur Nutzung von Git(hub)
 	git branch
 	git checkout 
  
-
+5. Cheatsheet
+	https://education.github.com/git-cheat-sheet-education.pdf
